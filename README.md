@@ -1,2 +1,2 @@
-# Diversion-Hackathon-Project-
-This is a Project Regarding a Food  Website named EATHUB using web-development tools made by our team Coding Wallah.
+# Diversion-hackathon-project
+This is the project regarding a food website named EATHUB using web developtment made by our team Coding Wallah 
